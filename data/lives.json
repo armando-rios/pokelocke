@@ -1,0 +1,16 @@
+{
+  "players": [
+    {
+      "name": "Rios",
+      "lives": 20
+    },
+    {
+      "name": "Bass",
+      "lives": 14
+    },
+    {
+      "name": "Juan",
+      "lives": 23
+    }
+  ]
+}
